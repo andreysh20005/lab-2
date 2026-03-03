@@ -1,0 +1,58 @@
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\lab 2 F#.exe
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\lab 2 F#.deps.json
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\lab 2 F#.runtimeconfig.json
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\lab 2 F#.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\lab 2 F#.pdb
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\FSharp.Core.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\cs\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\de\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\es\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\fr\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\it\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\ja\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\ko\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\pl\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\ru\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\tr\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\bin\Debug\net10.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\obj\Debug\net10.0\lab 2 F#.fsproj.AssemblyReference.cache
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\obj\Debug\net10.0\lab 2 F#.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\obj\Debug\net10.0\lab 2 F#.AssemblyInfo.fs
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\obj\Debug\net10.0\lab 2 F#.fsproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\obj\Debug\net10.0\lab 2 F#.fsproj.Up2Date
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\obj\Debug\net10.0\lab 2 F#.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\obj\Debug\net10.0\refint\lab 2 F#.dll
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\obj\Debug\net10.0\lab 2 F#.pdb
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\obj\Debug\net10.0\lab 2 F#.genruntimeconfig.cache
+C:\Users\andre\source\repos\lab 2 F#\lab 2 F#\obj\Debug\net10.0\ref\lab 2 F#.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\lab 2 F#.exe
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\lab 2 F#.deps.json
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\lab 2 F#.runtimeconfig.json
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\lab 2 F#.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\lab 2 F#.pdb
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\FSharp.Core.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\cs\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\de\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\es\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\fr\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\it\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\ja\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\ko\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\pl\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\ru\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\tr\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\bin\Debug\net10.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\obj\Debug\net10.0\lab 2 F#.fsproj.AssemblyReference.cache
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\obj\Debug\net10.0\lab 2 F#.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\obj\Debug\net10.0\lab 2 F#.AssemblyInfo.fs
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\obj\Debug\net10.0\lab 2 F#.fsproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\obj\Debug\net10.0\lab 2 F#.fsproj.Up2Date
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\obj\Debug\net10.0\lab 2 F#.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\obj\Debug\net10.0\refint\lab 2 F#.dll
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\obj\Debug\net10.0\lab 2 F#.pdb
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\obj\Debug\net10.0\lab 2 F#.genruntimeconfig.cache
+C:\Users\andre\source\repos\lab 2 F#\lab-2\lab 2 F#\obj\Debug\net10.0\ref\lab 2 F#.dll
